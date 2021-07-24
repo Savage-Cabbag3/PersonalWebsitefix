@@ -1,0 +1,13 @@
+body{
+margin: 0px;
+padding top:800px;
+}
+#welc-img{
+height:65px;
+width:50px;
+border-radius:50%;
+}
+#Sect1{
+position: absolute;
+    background:linear-gradient(Green 25%,Blue 50%);
+}
